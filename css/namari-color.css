@@ -22,27 +22,27 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#bae1ff;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#bae1ff;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#00939d;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background:#c0d6e4;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#c0d6e4;
 }
 
 
