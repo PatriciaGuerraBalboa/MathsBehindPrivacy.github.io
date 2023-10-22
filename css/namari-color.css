@@ -38,11 +38,11 @@ a:hover, #header.nav-solid nav a:hover {
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background:#c0d6e4;
+    background:#00939d;
 }
 
 .pricing-block-content:hover {
-    border-color:#c0d6e4;
+    border-color:#00939d;
 }
 
 
@@ -69,7 +69,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 #header.nav-solid .active {
     color: #00939d;
-    border-color: ##00939d;
+    border-color: #00939d;
 }    
 
 
@@ -82,7 +82,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:##00939d;
+    background-color:#00939d;
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:#00939d;
     content:"";
     display:block;
     width:30px;
@@ -279,8 +279,8 @@ h6 {
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#d2b356;
-    color:#d2b356;
+    border-color:#00939d;
+    color:#00939d;
 }
 
 
