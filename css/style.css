@@ -690,6 +690,22 @@ nav#nav-mobile a:hover {
 /* --------- 2.6 Images ---------- */
 
 /*Alignment*/
+<style>
+figure.watermark {
+	position: relative;
+	display: inline-block;
+}
+figure.watermark span.watermark {
+	position: absolute;
+	right: 0.625rem;
+	bottom: 0.625rem;
+	padding-left: 0.625rem;
+	color: #fff;
+	font-size: 0.9rem;
+	line-height: 1.1;
+	text-align: right;
+}
+</style>
 
 img {
     vertical-align: top;
